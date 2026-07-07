@@ -44,5 +44,6 @@ FB_GROUP_URLS = [
     "https://facebook.com",
     "https://facebook.com",
     
-]
-# 您監控的社團網址
+] # 您監控的社團網址
+# 新增設定：每次啟動只巡邏幾個社團？ (建議 8-10 個)
+FB_BATCH_SIZE = 10 
